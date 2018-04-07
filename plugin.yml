@@ -8,7 +8,7 @@
 ---
 name: UHC
 author:  Ad5001
-version: 1.0
+version: 1.4
 api: [3.0.0-ALPHA11]
 main: Ad5001\UHC\Main
 commands: 
